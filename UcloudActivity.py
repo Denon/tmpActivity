@@ -1,7 +1,8 @@
+# coding:utf-8
+# 椤轰究闂笅浣犱滑杩樻嫑浜哄悧
 import requests
 
 __author__ = 'denonw'
-# 顺便问问你们还招人吗
 
 
 
